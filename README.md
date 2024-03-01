@@ -7,6 +7,8 @@ The owner of a small business (currently 50 employees) has initiated an internal
 Currently, there is inadequate management of assets. Additionally, the company does not have the proper security controls in place and may not be compliant with U.S. and international regulations and standards.
 
 I undertook a security audit which encompasses compliance, and I have made initial recommendations based on the findings of the audit.
+
+A blank version of my audit document can be downloaded from: https://docs.google.com/document/d/15w7nbqFEFygJF79RgN0rJSQt6uiBSudw/edit 
 <br/>
 <img src="assets/1.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
